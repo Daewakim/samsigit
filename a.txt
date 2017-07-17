@@ -4,4 +4,6 @@ another line of text
 
 a + b = d
 
+some more math stuff.
+
 Change at lest one currently tracked file.

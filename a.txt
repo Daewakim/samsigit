@@ -4,4 +4,4 @@ another line of text
 
 a + b = d
 
-change at lest one currently tracked file.
+Change at lest one currently tracked file.
